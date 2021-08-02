@@ -24,6 +24,7 @@
 ## Other knowledges:
 
 <ul>
+  <li>Git</li>
   <li>MySQL</li>
   <li>PHP</li>
   <li>Laravel</li>
