@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hi Guys, I'm Mayke Santos!
+ 
+<p>FullStack Developer</p>
 
-<!--
-**maykedesenvolvimento/maykedesenvolvimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My preferred Stack:
 
-Here are some ideas to get you started:
+### Backend:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>NestJS</li>
+  <li>NodeJS</li>
+  <li>TypeScript</li>
+  <li>MongoDB</li>
+  <li>Swagger</li>
+</ul>
+
+### Frontend:
+
+<ul>
+  <li>Flutter</li>
+  <li>Dart</li>
+</ul>
+
+## Other knowledges:
+
+<ul>
+  <li>MySQL</li>
+  <li>PHP</li>
+  <li>Laravel</li>
+  <li>Lumen</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>ReactJS</li>
+  <li>Ionic</li>
+  <li>Angular</li>
+  <li>Firebase</li>
+  <li>Linux</li>
+</ul>
+
+  
+#### Thanks for visiting!
