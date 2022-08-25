@@ -7,11 +7,13 @@
 ### Backend:
 
 <ul>
-  <li>NestJS</li>
   <li>NodeJS</li>
+  <li>NestJS</li>
   <li>TypeScript</li>
+  <li>MySQL</li>
   <li>MongoDB</li>
   <li>Swagger</li>
+  <li>Kafka</li>
 </ul>
 
 ### Frontend:
@@ -25,7 +27,6 @@
 
 <ul>
   <li>Git</li>
-  <li>MySQL</li>
   <li>PHP</li>
   <li>Laravel</li>
   <li>Lumen</li>
